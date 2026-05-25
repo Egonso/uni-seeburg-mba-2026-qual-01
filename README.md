@@ -8,14 +8,19 @@ Dieses Repo enthält absichtlich keine personenbezogenen Daten, keinen konkreten
 
 1. `docs/00-publication-boundary.md` lesen.
 2. `docs/01-12-schritte-outline-gate.md` lesen.
-3. `workspace/01_expose_und_forschungsfrage/OUTLINE.md` stabilisieren.
-4. Erst danach Interviewleitfaden, Quellenmatrix und Methodik vertiefen.
+3. `skills/uni-seeburg-mba-qual-01/SKILL.md` als operativen Codex-Skill laden.
+4. `workspace/01_expose_und_forschungsfrage/OUTLINE.md` stabilisieren.
+5. Erst danach Interviewleitfaden, Quellenmatrix und Methodik vertiefen.
 
 ## Aktueller Typ
 
 - Arbeitstyp: qualitative empirische Arbeit.
 - Primärer Qualitätsfokus: Forschungsfrage, qualitative Methode, Interviewdesign, Auswertung, Diskussion, Beitrag.
 - Public-Grenze: konkrete Person, Thema, Unternehmen, Interviewpartnerinnen und Interviewpartner bleiben außerhalb dieses öffentlichen Repos.
+
+## Codex-Skill
+
+- `skills/uni-seeburg-mba-qual-01/SKILL.md` bündelt die Bewertungslogik, 1er-Benchmarks, Qualitätsgates, Interview- und Auswertungsregeln, KI-Dokumentation und Formalia für dieses Repo.
 
 ## Wichtig
 
